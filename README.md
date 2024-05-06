@@ -1,5 +1,7 @@
 ### Hi there, I'm Sam!
 
+# About me
+
 👋 I am a full-stack software engineer based in Denver. I am dedicated to driving positive change and making meaningful contributions to our digital world.
 
 🛠️ I am equipped with a diverse skill set of programming languages and frameworks, including HTML, CSS, JavaScript, React.js, Python, and Flask.
