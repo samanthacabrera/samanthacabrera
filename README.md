@@ -1,5 +1,3 @@
-### Hi there, I'm Sam!
-
 # About me
 
 👋 I am a full-stack software engineer based in Denver. I am dedicated to driving positive change and making meaningful contributions to our digital world.
