@@ -2,8 +2,9 @@
 
 I'm a full-stack software engineer based in Denver, passionate about building innovative and impactful digital solutions. With a strong foundation in both frontend and backend technologies, I strive to create seamless and engaging user experiences. Web development allows me to express myself creatively while delivering tangible, practical solutions for clients and users alike. I draw inspiration from a wide range of sources, including art and architecture. Through this fusion of artistry and technology, I find fulfillment and purpose in my work.
 
----
- ### 🧰 Skills & Technologies
+<br/>
+
+## 🧰 Skills & Technologies
 
 I leverage a diverse set of tools and technologies to build efficient, scalable, and user-friendly web applications. Below is a comprehensive list of tools I use daily in my projects:
 
@@ -22,8 +23,8 @@ I leverage a diverse set of tools and technologies to build efficient, scalable,
 - API Testing: ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 - Deployment Platforms: ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
----
+
+<br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samanthacabrera&theme=default)
 
----
