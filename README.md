@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sam
 
-I'm a full-stack software engineer based in Denver, passionate about building innovative and impactful digital solutions. With a strong foundation in both frontend and backend technologies, I strive to create seamless and engaging user experiences. Web development allows me to express myself creatively while delivering tangible, practical solutions for clients and users alike. I draw inspiration from a wide range of sources, including art and architecture. Through this fusion of artistry and technology, I find fulfillment and purpose in my work.
+I'm a full-stack software engineer based in Denver, passionate about building innovative and impactful digital solutions. Web development allows me to express myself creatively while delivering tangible, practical solutions for clients and users alike. Through this fusion of artistry and technology, I find fulfillment and purpose in my work.
 
 <br/>
 
@@ -16,4 +16,16 @@ I leverage a diverse set of tools and technologies to build efficient, scalable,
 
 <br/>
 
+## 🚀 Deployed Projects
+
+### [Portfolio Website](https://github.com/samanthacabrera/portfolio)
+This project showcases my work as a full-stack software engineer. You can view detailed descriptions of my projects, including technologies used and walkthroughs, learn more about my work experience, inspirations, and career objectives, or read my latest article tutorials surrounding web devleopment.
+
+<br/>
+
+## 📊 GitHubStats
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samanthacabrera&layout=compact&theme=default)
+<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samanthacabrera&theme=default)
+
