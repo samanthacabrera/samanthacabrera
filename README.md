@@ -1,6 +1,16 @@
-# 👋 Hi, I'm Sam
+# 👋 Hi, I'm Sam!
 
 I'm a full-stack software engineer based in Denver, passionate about building innovative and impactful digital solutions. Web development allows me to express myself creatively while delivering tangible, practical solutions for clients and users alike. Through this fusion of artistry and technology, I find fulfillment and purpose in my work.
+
+<br/>
+
+## 🌟 Get To Know Me 
+
+- **Favorite Programming Language:** Python
+- **Favorite IDE:** VSCode
+- **Favorite Dev Tool:** [Hopstock](https://www.hopstock.com)
+- **Favorite Tech Blog:** [TDLR Newsletter](https://www.tdlrnewsletter.com)
+- **Favorite Open Source Project:** [Zdog](https://zzz.dog/) 
 
 <br/>
 
@@ -23,7 +33,7 @@ This project showcases my work as a full-stack software engineer. You can view d
 
 <br/>
 
-## 📊 GitHubStats
+## 📊 GitHub Stats
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samanthacabrera&layout=compact&theme=default)
 <br/>
