@@ -7,9 +7,9 @@ I'm a full-stack software engineer based in Denver, passionate about building in
 ## 🌟 Get To Know Me 
 
 - **Favorite Programming Language:** Python
-- **Favorite IDE:** VSCode
-- **Favorite Dev Tool:** [Hopstock](https://www.hopstock.com)
-- **Favorite Tech Blog:** [TDLR Newsletter](https://www.tdlrnewsletter.com)
+- **Favorite IDE:** Visual Studio Code
+- **Favorite Dev Tool:** [Hoppscotch](https://hoppscotch.io/)
+- **Favorite Tech Blog:** [TDLR Newsletter](https://tldr.tech/)
 - **Favorite Open Source Project:** [Zdog](https://zzz.dog/) 
 
 <br/>
