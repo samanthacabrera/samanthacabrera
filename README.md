@@ -4,10 +4,14 @@ I'm a full-stack software engineer based in Denver, passionate about building in
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samanthacabreraa)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/samcab/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samantha.n.cabrera@gmail.com)
+
+<br/>
+
 ## 🌟 Get To Know Me 
 
-- **Favorite Programming Language:** Python
-- **Favorite IDE:** Visual Studio Code
 - **Favorite Dev Tool:** [Hoppscotch](https://hoppscotch.io/)
 - **Favorite Tech Blog:** [TDLR Newsletter](https://tldr.tech/)
 - **Favorite Open Source Project:** [Zdog](https://zzz.dog/) 
@@ -28,7 +32,7 @@ I leverage a diverse set of tools and technologies to build efficient, scalable,
 
 ## 🚀 Deployed Projects
 
-### [Portfolio Website](https://github.com/samanthacabrera/portfolio)
+### [Portfolio Website](https://samoontha.com/)
 This project showcases my work as a full-stack software engineer. You can view detailed descriptions of my projects, including technologies used and walkthroughs, learn more about my work experience, inspirations, and career objectives, or read my latest article tutorials surrounding web devleopment.
 
 <br/>
@@ -39,3 +43,4 @@ This project showcases my work as a full-stack software engineer. You can view d
 <br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samanthacabrera&theme=default)
 
+<br/>
