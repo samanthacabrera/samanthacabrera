@@ -13,7 +13,7 @@ I'm a full-stack software engineer based in Denver, passionate about building in
 ## 🌟 Get To Know Me 
 
 - **Favorite Dev Tool:** [Hoppscotch](https://hoppscotch.io/)
-- **Favorite Tech Blog:** [TDLR Newsletter](https://tldr.tech/)
+- **Favorite Tech Blog:** [TLDR Newsletter](https://tldr.tech/)
 - **Favorite Open Source Project:** [Zdog](https://zzz.dog/) 
 
 <br/>
