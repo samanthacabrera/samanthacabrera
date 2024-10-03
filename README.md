@@ -35,6 +35,9 @@ I leverage a diverse set of tools and technologies to build efficient, scalable,
 ### [Portfolio Website](https://samoontha.com/)
 This project showcases my work as a full-stack software engineer. You can view detailed descriptions of my projects, including technologies used and walkthroughs, learn more about my work experience, inspirations, and career objectives, or read my latest article tutorials surrounding web devleopment.
 
+### [Conversion Calculator](https://samanthacabrera.github.io/conversion-calculator/)
+A simple, responsive unit conversion calculator built with React.js and Vite.
+
 <br/>
 
 ## 📊 GitHub Stats
