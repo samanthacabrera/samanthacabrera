@@ -10,17 +10,18 @@ I'm a full-stack software engineer based in Denver, passionate about building in
 
 <br/>
 
-## 🌟 Get To Know Me 
+## 🚀 Deployed Projects
 
-- **Favorite Dev Tool:** [Hoppscotch](https://hoppscotch.io/)
-- **Favorite Tech Blog:** [TLDR Newsletter](https://tldr.tech/)
-- **Favorite Open Source Project:** [Zdog](https://zzz.dog/) 
+### [Portfolio](https://samoontha.com/)
+This site showcases my work as a full-stack software engineer. 
+
+### [Calcalooza](https://samanthacabrera.github.io/conversion-calculator/)
+A responsive website featuring a variety of math calculators built using React.js, Vite, and Tailwind CSS.
 
 <br/>
 
 ## 🧰 Skills & Technologies
-
-I leverage a diverse set of tools and technologies to build efficient, scalable, and user-friendly web applications. Below is a comprehensive list of tools I use daily in my projects:
+<br/>
 
 | **Category**             | **Technologies**                                                                                                                                |
 |--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -30,20 +31,11 @@ I leverage a diverse set of tools and technologies to build efficient, scalable,
 
 <br/>
 
-## 🚀 Deployed Projects
-
-### [Portfolio Website](https://samoontha.com/)
-This project showcases my work as a full-stack software engineer. You can view detailed descriptions of my projects, including technologies used and walkthroughs, learn more about my work experience, inspirations, and career objectives, or read my latest article tutorials surrounding web devleopment.
-
-### [Conversion Calculator](https://samanthacabrera.github.io/conversion-calculator/)
-A simple, responsive unit conversion calculator built with React.js and Vite.
-
-<br/>
 
 ## 📊 GitHub Stats
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samanthacabrera&layout=compact&theme=default)
-<br/>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samanthacabrera&theme=default)
 
 <br/>
