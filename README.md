@@ -16,7 +16,10 @@ I'm a full-stack software engineer based in Denver, specializing in web developm
 This site showcases my work as a full-stack software engineer. 
 
 ### [Calcalooza](https://samanthacabrera.github.io/conversion-calculator/)
-A responsive website featuring a variety of math calculators built using React.js, Vite, and Tailwind CSS.
+An open-source, responsive website offering a variety of math calculators. This site is free and accessible to the public, providing a tool to help teach early math concepts. 
+
+### [Learn Yoga Online](https://samanthacabrera.github.io/yoga-library/)
+A free, open-source yoga library that includes a wide range of yoga poses with descriptions and benefits. This site is designed to be accessible and helpful for anyone looking to deepen their yoga practice.
 
 <br/>
 
