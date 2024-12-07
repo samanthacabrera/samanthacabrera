@@ -2,13 +2,6 @@
 
 I'm a full-stack software engineer based in Denver, specializing in web development and UX/UI design. I'm passionate about creating digital solutions that seamlessly combine creativity and functionality. Through this fusion, I find fulfillment and purpose in my work.
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samanthacabreraa)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/samcab/)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samantha.n.cabrera@gmail.com)
-
-<br/>
 
 ## 🚀 Deployed Projects
 
