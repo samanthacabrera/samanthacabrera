@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sam!
 
-I'm a full-stack software engineer based in Denver, specializing in web development and UX/UI design. I'm passionate about creating digital solutions that combine creativity and functionality. Through this fusion, I find fulfillment and purpose in my work. Feel free to contact me at [samantha.n.cabrera@gmail.com](mailto:samantha.n.cabrera@gmail.com). 
+I'm a full-stack software engineer based in Denver, specializing in web development and UX/UI design. I'm passionate about creating digital solutions that combine creativity and functionality. Through this fusion, I find fulfillment and purpose in my work.
 
 
 ## 🚀 Deployed Projects
