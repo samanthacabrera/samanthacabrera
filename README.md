@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sam!
 
-I'm a full-stack software engineer based in Denver, specializing in web development and UX/UI design. I'm passionate about creating digital solutions that combine creativity and functionality. Through this fusion, I find fulfillment and purpose in my work.
+I'm a full-stack software engineer based in Denver, specializing in 3D web development. I'm passionate about creating digital solutions that combine creativity and functionality. Through this fusion, I find fulfillment and purpose in my work.
 
 
 ## 🚀 Deployed Projects
