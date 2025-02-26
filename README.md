@@ -11,8 +11,6 @@ This site showcases my work as a full-stack software engineer.
 ### [Learn Yoga Online](https://samanthacabrera.github.io/yoga-library/)
 A free, open-source yoga resource featuring 50 foundational yoga poses with descriptions, benefits, and cues. It also includes articles on yoga techniques and mindfulness to support a well-rounded practice.
 
-### [Calcalooza](https://samanthacabrera.github.io/conversion-calculator/)
-An open-source, responsive website offering a range of math calculators. This platform is designed to help teach early math concepts and provide valuable tools for young students.
 <br/>
 
 ## 🧰 Skills & Technologies
