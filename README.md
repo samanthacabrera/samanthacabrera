@@ -2,21 +2,22 @@
 
 I am equal parts web developer and yogi. I spend my days maintaining and improving LearnYoga.online (platform highlighting the foundations of yoga), and my nights crocheting and building Yarnsara (full-stack eCommerce site for handcrafted, upcycled yoga accessories). You can see what else I have been up to at [samoontha.com](https://samoontha.com/).
 
+<br/>
 
-## 🚀 Deployed Projects
+## 👩‍💻 Featured Projects
 
-### [Portfolio](https://samoontha.com/)
+### [Portfolio](https://samoontha.com/)  
 This site showcases my work as a full-stack software engineer.  
 
-### [Learn Yoga Online](https://samanthacabrera.github.io/yoga-library/)
+### [Learn Yoga Online](https://samanthacabrera.github.io/yoga-library/) 
 A free, open-source yoga resource featuring 50 foundational yoga poses with descriptions, benefits, and cues. It also includes articles on yoga techniques and mindfulness to support a well-rounded practice.
 
-### [Yarnsara](https://yarnsara-samanthacabreras-projects.vercel.app/)
+### [Yarnsara](https://yarnsara-samanthacabreras-projects.vercel.app/) 
 A full-stack eCommerce platform offering 100% upcycled & hand-crocheted yoga accessories. Built with React, Express, MongoDB, and Stripe for a seamless shopping experience.  
 
 <br/>
 
-## 🧰 Skills & Technologies
+## ⚡ Skills & Technologies
 <br/>
 
 | **Category**             | **Technologies**                                                                                                                                |
@@ -31,6 +32,10 @@ A full-stack eCommerce platform offering 100% upcycled & hand-crocheted yoga acc
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samanthacabrera&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samanthacabrera&theme=default) <br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samanthacabrera&layout=compact&card_width=495&theme=minimal&hide=mako) <br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samanthacabrera&show_icons=true&theme=minimal) <br/>
+![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=samanthacabrera&theme=minimal) <br/>
+![Profile Views](https://komarev.com/ghpvc/?username=samanthacabrera&color=blue&style=flat)
 
 <br/>
