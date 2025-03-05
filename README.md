@@ -4,7 +4,7 @@ I am equal parts web developer and yogi. I spend my days maintaining and improvi
 
 <br/>
 
-## 👩‍💻 Featured Projects
+# 👩‍💻 Featured Projects
 
 ### [Portfolio](https://samoontha.com/)  
 This site showcases my work as a full-stack software engineer.  
@@ -17,7 +17,7 @@ A full-stack eCommerce platform offering 100% upcycled & hand-crocheted yoga acc
 
 <br/>
 
-## ⚡ Skills & Technologies
+# ⚡ Skills & Technologies
 <br/>
 
 | **Category**             | **Technologies**                                                                                                                                |
@@ -29,13 +29,19 @@ A full-stack eCommerce platform offering 100% upcycled & hand-crocheted yoga acc
 
 <br/>
 
+# 🤝 Work with Me 
 
-## 📊 GitHub Stats
+Looking for a freelance web developer to bring your project to life? <br/>
+I specialize in **React, Node.js, MongoDB, and TailwindCSS**.
+
+Visit *[Calendly](https://calendly.com/samantha-n-cabrera)* to schedule a meeting. 
+
+<br/>
+
+# 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samanthacabrera&theme=default) <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samanthacabrera&layout=compact&card_width=495&theme=minimal&hide=mako) <br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samanthacabrera&show_icons=true&theme=minimal) <br/>
 ![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=samanthacabrera&theme=minimal) <br/>
-![Profile Views](https://komarev.com/ghpvc/?username=samanthacabrera&color=blue&style=flat)
-
 <br/>
