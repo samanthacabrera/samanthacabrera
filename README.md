@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sam!
 
-I am equal parts web developer and yogi. I spend my days maintaining and improving LearnYoga.online (platform highlighting the foundations of yoga), and building Yarnsara (full-stack eCommerce site for handcrafted, upcycled yoga accessories). You can see what else I have been up to at [samoontha.com](https://samoontha.com/).
+I am equal parts web developer and yogi. I spend my days maintaining and improving LearnYoga.online (platform highlighting the foundations of yoga), and building Yarnsara (online store selling handcrafted, upcycled yoga accessories). You can see what else I have been up to at [samoontha.com](https://samoontha.com/).
 
 <br/>
 
@@ -11,9 +11,6 @@ This site showcases my work as a full-stack software engineer.
 
 ### [Learn Yoga Online](https://samanthacabrera.github.io/yoga-library/) 
 A free, open-source yoga resource featuring 50 foundational yoga poses with descriptions, benefits, and cues. It also includes articles on yoga techniques and mindfulness to support a well-rounded practice.
-
-### [Yarnsara](https://yarnsara-samanthacabreras-projects.vercel.app/) 
-A full-stack eCommerce platform offering 100% upcycled & hand-crocheted yoga accessories. Built with React, Express, MongoDB, and Stripe for a seamless shopping experience.  
 
 <br/>
 
