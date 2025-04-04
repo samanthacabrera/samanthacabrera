@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sam!
 
-I am equal parts web developer and yogi. I spend my days maintaining and improving LearnYoga.online (platform highlighting the foundations of yoga), and building Yarnsara (online store selling handcrafted, upcycled yoga accessories). You can see what else I have been up to at [samoontha.com](https://samoontha.com/).
+I am equal parts web developer and yogi. I spend my days maintaining and improving [learnyoga.online](https://samanthacabrera.github.io/yoga-library/)  (platform highlighting the foundations of yoga), and building Yarnsara (online store selling handcrafted, upcycled yoga accessories). You can see what else I have been up to at [samoontha.com](https://samoontha.com/).
 
 <br/>
 
