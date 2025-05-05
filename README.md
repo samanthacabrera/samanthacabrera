@@ -1,6 +1,6 @@
 ### 👋 Hi, my name is Sam!
 
-I am equal parts web developer and yogi. I spend my days maintaining and improving **[learnyoga.online](https://samanthacabrera.github.io/yoga-library/)**  (platform highlighting the foundations of yoga) and nights building **[yarnsara](https://yarnsara.etsy.com/)** (online store selling handcrafted, upcycled yoga accessories). You can see what else I have been up to at **[samoontha.com](https://samoontha.com/)**.
+I am equal parts web developer and yogi. I spend my days maintaining and improving **[learnyoga.online](https://samanthacabrera.github.io/yoga-library/)**  (a site dedicated to the fundamentals of yoga) and nights building **[yarnsara](https://yarnsara.etsy.com/)** (an online shop for upcycled t-shirt yarn). You can see what else I have been up to at **[samoontha.com](https://samoontha.com/)**.
 
 </br>
 
