@@ -18,6 +18,12 @@ A holistic yoga resource featuring 50 foundational yoga poses with descriptions,
 
 `React Router`, `SEO`, `Open-Source`
 
+#### Swiftle
+
+A game inspired by a love of Taylor Swift songs & NYT's mini game, Connections. &nbsp; <a href="https://samanthacabrera.github.io/swiftle" target="_blank" rel="noopener noreferrer"><kbd>play now</kbd></a>
+
+`Vite`, `Game Logic`, `Open-Source`
+
 </br>
 
 ### 💡 Skills & Technologies
