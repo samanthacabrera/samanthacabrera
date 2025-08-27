@@ -1,6 +1,8 @@
 ### 👋 Hi, my name is Sam!
 
-I am equal parts web developer and yogi. I spend my days maintaining and improving **[learnyoga.online](https://samanthacabrera.github.io/yoga-library/)**  (a site dedicated to the fundamentals of yoga) and nights building **[yarnsara](https://yarnsara.etsy.com/)** (an online shop for upcycled t-shirt yarn). You can see what else I have been up to at **[samoontha.com](https://samoontha.com/)**.
+I'm a full-stack software engineer, specializing in 3D web development. I am equal parts developer and yogi. I'm passionate about creating digital solutions that combine creativity and functionality. Through this fusion, I find fulfillment and purpose in my work.
+
+You can see what else I have been up to at **[samoontha.com](https://samoontha.com/)**.
 
 </br>
 
